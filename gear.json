@@ -1,0 +1,216 @@
+[
+    {
+        "name": "Music",
+          "children": [
+
+    {
+      "name": "Electric Guitars",
+        "children": [
+          {
+            "name": "Fender",
+              "children": [
+                  {
+                "name": "Telecaster",
+                "children": [
+                    {
+                        "name": "American Standard", "colour": "red"
+                    },
+                    {
+                        "name": "Squier", "colour": "green"
+                    },
+                    {
+                        "name": "Mexican", "colour": "blue"
+                    }
+                ]
+                },
+                {
+                "name": "Stratocaster",
+                  "children": [
+                    {
+                        "name": "American Standard", "colour": "red"
+                    },
+                    {
+                        "name": "Squier", "colour": "green"
+                    },
+                    {
+                        "name": "Mexican", "colour": "blue"
+                    }
+                  ]
+                }
+              ]
+          },
+          {
+            "name": "Gibson",
+              "children": [
+                  {
+                      "name": "Les Paul", "colour": "yellow"
+                  },
+                  {
+                      "name": "ES-335", "colour": "blue"
+                  },
+                  {
+                      "name": "ES-335", "colour": "purple"
+                  }
+              ]
+          }          
+        ]
+      },
+    {
+        "name": "Pedals",
+          "children": [
+              {
+                  "name": "Gain",
+                    "children": [
+                        {
+                            "name": "Overdrive/Boost",
+                              "children": [
+                                  {
+                                      "name": "Fulltone Fulldrive 2: Mosfet", "colour": "magenta"
+                                  },
+                                  {
+                                      "name": "Tubescreamer TS9", "colour": "hazel"
+                                  },
+                                  {
+                                      "name": "Bluesdriver", "colour": "teal"
+                                  }
+                              ]
+                        },
+                        {
+                            "name": "Distortion",
+                              "children": [
+                                  {
+                                      "name": "Boss DS-1", "colour": "purple"
+                                  },
+                                  {
+                                      "name": "Vox Sachurator", "colour": "magenta"
+                                  },
+                                  {
+                                      "name": "ProCo RAT II", "colour": "violet"
+                                  }
+                              ]
+                        },
+                        {
+                            "name": "Fuzz",
+                              "children": [
+                                  {
+                                      "name": "Big Muff Pi", "colour": "white"
+                                  },
+                                  {
+                                      "name": "Fuzz Face", "colour": "lightgray"
+                                  },
+                                  {
+                                      "name": "Hoof", "colour": "gray"
+                                  }
+                              ]
+                        }
+                        
+                            
+                    ]
+              },
+              {
+                  "name": "Modulation",
+                    "children": [
+                        {
+                            "name": "Phaser",
+                            "children": [
+                                {
+                                    "name": "MXR Phase 90", "colour": "darkorange"
+                                },
+                                {
+                                    "name": "Boss PH-3", "colour": "orange"
+                                },
+                                {
+                                    "name": "Nano Small Stone", "colour": "lightyellow"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chorus", 
+                              "children": [
+                                  {
+                                      "name": "Liquid Chorus", "colour": "darkblue"
+                                  },
+                                  {
+                                      "name": "Boss CH-1", "colour": "blue"
+                                  },
+                                  {
+                                      "name": "Stereo Electric Mistress", "colour": "lightblue"
+                                  }
+                              ]
+                        }
+                    ]
+              },
+              {
+                  "name": "Delay",
+                    "children": [
+                        {
+                            "name": "Analog",
+                              "children": [
+                                  {
+                                      "name": "Carbon Copy", "colour": "darkgreen"
+                                  },
+                                  {
+                                      "name": "Deluxe Memory Man", "colour": "green"
+                                  },
+                                  {
+                                      "name": "Memory Toy", "colour": "lightgreen"
+                                  }
+                              ]
+                        },
+                        {
+                            "name": "Digital",
+                              "children": [
+                                  {
+                                      "name": "El Capistan", "colour": "black"
+                                  },
+                                  {
+                                      "name": "DD-7", "colour": "darkgray"
+                                  },
+                                  {
+                                      "name": "DD-20", "colour": "gray"
+                                  },
+                                  {
+                                      "name": "TimeLine", "colour": "lightgray"
+                                  }
+                              ]
+                        }
+                    ]
+              },
+              {
+                  "name": "Reverb",
+                    "children": [
+                        {
+                            "name": "Cathedral", "colour": "lightblue"
+                        },
+                        {
+                            "name": "Hall of Fame", "colour": "blue"
+                        },
+                        {
+                            "name": "Holy Grail", "colour": "darkblue"
+                        }
+                    ]
+              }
+          ]
+    },
+    {
+        "name": "Amplifiers",
+          "children": [
+              {
+                  "name": "Fender",
+                    "children": [
+                        {
+                            "name": "Hot Rod", "colour": "Blue"
+                        },
+                        {
+                            "name": "Twin Reverb", "colour": "bluegreen"
+                        },
+                        {
+                            "name": "Frontman", "colour": "teal"
+                        }
+                    ]
+              }
+          ]
+    }
+          ]
+    }
+  ]
