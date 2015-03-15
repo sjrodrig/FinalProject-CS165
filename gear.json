@@ -13,13 +13,13 @@
                 "name": "Telecaster",
                 "children": [
                     {
-                        "name": "American Standard", "colour": "red"
+                        "name": "American Standard", "colour": "#E0C2FF"
                     },
                     {
-                        "name": "Squier", "colour": "green"
+                        "name": "Squier", "colour": "#D6ADFF"
                     },
                     {
-                        "name": "Mexican", "colour": "blue"
+                        "name": "Mexican", "colour": "#CC99FF"
                     }
                 ]
                 },
@@ -27,13 +27,13 @@
                 "name": "Stratocaster",
                   "children": [
                     {
-                        "name": "American Standard", "colour": "red"
+                        "name": "American Standard", "colour": "#C285FF"
                     },
                     {
-                        "name": "Squier", "colour": "green"
+                        "name": "Squier", "colour": "#B870FF"
                     },
                     {
-                        "name": "Mexican", "colour": "blue"
+                        "name": "Mexican", "colour": "#AD5CFF"
                     }
                   ]
                 }
@@ -43,20 +43,35 @@
             "name": "Gibson",
               "children": [
                   {
-                      "name": "Les Paul", "colour": "yellow"
+                      "name": "Les Paul", "colour": "#A347FF"
                   },
                   {
-                      "name": "ES-335", "colour": "blue"
+                      "name": "ES-335", "colour": "#9933FF"
                   },
                   {
-                      "name": "ES-335", "colour": "purple"
+                      "name": "ES-335", "colour": "#8A2EE6"
                   }
               ]
-          }          
+          },
+            {
+                "name": "Grestch",
+                  "children": [
+                      {
+                          "name": "Les Paul", "colour": "#7A29CC"
+                  },
+                  {
+                      "name": "ES-335", "colour": "#6B24B2"
+                  },
+                  {
+                      "name": "ES-335", "colour": "#5C1F99"
+                  }
+              ]
+          }
+                          
         ]
       },
     {
-        "name": "Pedals",
+        "name": "Pedals", "colour": "black",
           "children": [
               {
                   "name": "Gain",
@@ -65,13 +80,13 @@
                             "name": "Overdrive/Boost",
                               "children": [
                                   {
-                                      "name": "Fulltone Fulldrive 2: Mosfet", "colour": "magenta"
+                                      "name": "Fulltone Fulldrive 2: Mosfet", "colour": "#000080"
                                   },
                                   {
-                                      "name": "Tubescreamer TS9", "colour": "hazel"
+                                      "name": "Tubescreamer TS9", "colour": "#000099"
                                   },
                                   {
-                                      "name": "Bluesdriver", "colour": "teal"
+                                      "name": "Bluesdriver", "colour": "#0000B2"
                                   }
                               ]
                         },
@@ -79,13 +94,13 @@
                             "name": "Distortion",
                               "children": [
                                   {
-                                      "name": "Boss DS-1", "colour": "purple"
+                                      "name": "Boss DS-1", "colour": "#0000CC"
                                   },
                                   {
-                                      "name": "Vox Sachurator", "colour": "magenta"
+                                      "name": "Vox Sachurator", "colour": "#0000E6"
                                   },
                                   {
-                                      "name": "ProCo RAT II", "colour": "violet"
+                                      "name": "ProCo RAT II", "colour": "#0000FF"
                                   }
                               ]
                         },
@@ -93,13 +108,13 @@
                             "name": "Fuzz",
                               "children": [
                                   {
-                                      "name": "Big Muff Pi", "colour": "white"
+                                      "name": "Big Muff Pi", "colour": "#0000FF"
                                   },
                                   {
-                                      "name": "Fuzz Face", "colour": "lightgray"
+                                      "name": "Fuzz Face", "colour": "#1919FF"
                                   },
                                   {
-                                      "name": "Hoof", "colour": "gray"
+                                      "name": "Hoof", "colour": "#3333FF"
                                   }
                               ]
                         }
@@ -114,13 +129,13 @@
                             "name": "Phaser",
                             "children": [
                                 {
-                                    "name": "MXR Phase 90", "colour": "darkorange"
+                                    "name": "MXR Phase 90", "colour": "#4D4DFF"
                                 },
                                 {
-                                    "name": "Boss PH-3", "colour": "orange"
+                                    "name": "Boss PH-3", "colour": "#6666FF"
                                 },
                                 {
-                                    "name": "Nano Small Stone", "colour": "lightyellow"
+                                    "name": "Nano Small Stone", "colour": "#8080FF"
                                 }
                             ]
                         },
@@ -128,13 +143,13 @@
                             "name": "Chorus", 
                               "children": [
                                   {
-                                      "name": "Liquid Chorus", "colour": "darkblue"
+                                      "name": "Liquid Chorus", "colour": "#9999FF"
                                   },
                                   {
-                                      "name": "Boss CH-1", "colour": "blue"
+                                      "name": "Boss CH-1", "colour": "#B2B2FF"
                                   },
                                   {
-                                      "name": "Stereo Electric Mistress", "colour": "lightblue"
+                                      "name": "Stereo Electric Mistress", "colour": "#CCCCFF"
                                   }
                               ]
                         }
@@ -147,13 +162,13 @@
                             "name": "Analog",
                               "children": [
                                   {
-                                      "name": "Carbon Copy", "colour": "darkgreen"
+                                      "name": "Carbon Copy", "colour": "#FF9999"
                                   },
                                   {
-                                      "name": "Deluxe Memory Man", "colour": "green"
+                                      "name": "Deluxe Memory Man", "colour": "#FF8080"
                                   },
                                   {
-                                      "name": "Memory Toy", "colour": "lightgreen"
+                                      "name": "Memory Toy", "colour": "#FF6666"
                                   }
                               ]
                         },
@@ -161,16 +176,16 @@
                             "name": "Digital",
                               "children": [
                                   {
-                                      "name": "El Capistan", "colour": "black"
+                                      "name": "El Capistan", "colour": "#FF4D4D"
                                   },
                                   {
-                                      "name": "DD-7", "colour": "darkgray"
+                                      "name": "DD-7", "colour": "#FF3333"
                                   },
                                   {
-                                      "name": "DD-20", "colour": "gray"
+                                      "name": "DD-20", "colour": "#FF0000"
                                   },
                                   {
-                                      "name": "TimeLine", "colour": "lightgray"
+                                      "name": "TimeLine", "colour": "#CC0000"
                                   }
                               ]
                         }
@@ -180,13 +195,13 @@
                   "name": "Reverb",
                     "children": [
                         {
-                            "name": "Cathedral", "colour": "lightblue"
+                            "name": "Cathedral", "colour": "#990000"
                         },
                         {
-                            "name": "Hall of Fame", "colour": "blue"
+                            "name": "Hall of Fame", "colour": "#660000"
                         },
                         {
-                            "name": "Holy Grail", "colour": "darkblue"
+                            "name": "Holy Grail", "colour": "#330000"
                         }
                     ]
               }
@@ -199,13 +214,49 @@
                   "name": "Fender",
                     "children": [
                         {
-                            "name": "Hot Rod", "colour": "Blue"
+                            "name": "Hot Rod", "colour": "#FFCC80"
                         },
                         {
-                            "name": "Twin Reverb", "colour": "bluegreen"
+                            "name": "Twin Reverb", "colour": "#FFC266"
                         },
                         {
-                            "name": "Frontman", "colour": "teal"
+                            "name": "Frontman", "colour": "#FFB84D"
+                        }
+                    ]
+              },
+              {
+                  "name": "Vox",
+                    "children": [
+                        {
+                            "name": "AC30", "colour": "#FFAD33"
+                        },
+                        {
+                            "name": "AC15", "colour": "#FFA319"
+                        }
+                    ]
+              },
+              {
+                  "name": "Peavey",
+                    "children": [
+                        {
+                            "name": "6505", "colour": "#FFFF66"
+                        },
+                        {
+                            "name": "Classic 50", "colour": "#FFFF80"
+                        },
+                        {
+                            "name": "ValveKing", "colour": "#FFFF99"
+                        }
+                    ]
+              },
+              {
+                  "name": "Marshall",
+                    "children": [
+                        {
+                            "name": "AC30", "colour": "#FFFFB2"
+                        },
+                        {
+                            "name": "AC15", "colour": "#FFFFCC"
                         }
                     ]
               }
